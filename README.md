@@ -24,3 +24,6 @@ Additionally, the following external tools must be installed and accessible from
 3. python recon_tool.py
 
 
+## License and discalimer
+
+This tool are for educational purposes only, ALL developers and contributors are not responsible for any kind of misuse. This Project is licensed under GNU General Public License v3.0.
