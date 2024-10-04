@@ -1,0 +1,5 @@
+whois
+dnspython
+subprocess
+json
+os
