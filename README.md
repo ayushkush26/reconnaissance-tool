@@ -16,6 +16,7 @@ Additionally, the following external tools must be installed and accessible from
 
 - [Sublist3r](https://github.com/aboul3la/Sublist3r)
 - [WhatWeb](https://github.com/urbanadventurer/WhatWeb)
+- The subdomains.txt file empty initially.I have tested the tool on practicepaper.in website.
 
 ## Installation
 
